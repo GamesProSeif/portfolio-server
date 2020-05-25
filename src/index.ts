@@ -15,4 +15,4 @@ server.on('ready', () => {
 	);
 });
 
-server.start();
+void server.start();
